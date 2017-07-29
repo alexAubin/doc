@@ -50,6 +50,7 @@ The following list is a compiled wishlist of applications that would be nice-to-
 - [Git-annex](http://git-annex.branchable.com)
 - [Gitit](http://gitit.net)
 - [GitLab](http://gitlab.org)
+- [Goaccess](https://goaccess.io) Web log analyser (replaces piwik without js tracking scripts)
 - [Gollum](https://github.com/gollum/gollum)
 - [Goploader](https://github.com/Depado/goploader)
 - [Guacamole](http://guac-dev.org)
@@ -72,6 +73,7 @@ The following list is a compiled wishlist of applications that would be nice-to-
 - [Kaiwa](http://getkaiwa.com)
 - [Kin calendar](https://github.com/KinToday)
 - [Kinto](https://github.com/Kinto/formbuilder)
+- [Kiwix](http://www.kiwix.org/) Offline wikipedia
 - [Known](https://withknown.com)
 - [Koel](http://koel.phanan.net)
 - [Kontalk](http://kontalk.org)
@@ -96,6 +98,7 @@ The following list is a compiled wishlist of applications that would be nice-to-
 - [NetData](https://github.com/firehol/netdata)
 - [Nibbleblog](http://www.nibbleblog.com)
 - [NodeBB](https://nodebb.org)
+- [Nuage](https://nuage.kerjean.me/login)
 - [ONLYOFFICE](http://onlyoffice.org)
 - [ONLYOFFICE Document Server](http://helpcenter.onlyoffice.com/server/linux/document/linux-installation.aspx) (to be able to use ONLYOFFICE inside Nextcloud)
 - [OpenBazaar](https://openbazaar.org)
@@ -106,6 +109,7 @@ The following list is a compiled wishlist of applications that would be nice-to-
 - [PeerTube](https://github.com/Chocobozzz/PeerTube)
 - [Pelican](http://blog.getpelican.com)
 - [Peps](https://github.com/MLstate/PEPS)
+- [Pi-hole](https://pi-hole.net) Network-wide ad blocking via your own Linux hardware
 - [PHPList](http://www.phplist.com)
 - [PHProxy](http://sourceforge.net/projects/poxy)
 - [Phraseanet](https://docs.phraseanet.com/3.8/fr/index.html#)
