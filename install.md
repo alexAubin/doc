@@ -4,6 +4,8 @@ There are multiple ways to install YunoHost. The process may slightly differs wh
 
 This page lists a few installation guides.
 
+TESTEUH
+
 ---
 
 <h1 style="font-weight: 100">Give it a try</h1>
